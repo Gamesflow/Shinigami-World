@@ -8,8 +8,8 @@ The official anime version of "[The Lost Ball](https://github.com/Gamesflow/The-
 |Key| Controls |
 |--|--|
 | Spacebar/Up arrow | Jump |
-| Right Arrow | Go Right |
-| Left Arrow | Go left |
+| D/Right Arrow | Go Right |
+| A/Left Arrow | Go left |
 
 ## Screenshot
 
